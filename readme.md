@@ -9,3 +9,4 @@ This is a collection of Hello World programs
 - Haskell (hello.hs)
 - Ruby
 - Bash (hello.sh)
+- Rust (hello.rs)
